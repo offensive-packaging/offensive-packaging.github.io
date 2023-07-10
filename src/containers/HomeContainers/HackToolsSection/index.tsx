@@ -43,7 +43,7 @@ const HackToolsSection = () => {
                   marginRight: 'auto',
                   maxWidth: '90%'
                 }}
-                alt="Offensive Packaging"
+                alt="Parrot Tools"
               />
             </Box>
           </Paper>
